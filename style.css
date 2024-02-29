@@ -1,0 +1,98 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+    position: relative;
+    background-color: rgb(16, 20, 24);
+}
+
+.body{
+    display: flex;
+}
+
+.h6{
+    color: rgb(100, 71, 142);
+    letter-spacing: 2px;
+    display: grid;
+    margin-left: 71%;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.text{
+    color: rgb(116, 71, 152);
+    font-size: x-large;
+    font-weight: 230;
+    margin-left:34%;
+    position: absolute;
+    display: grid;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 430;
+    top: 5%;
+    letter-spacing: 2px;
+
+    
+}
+
+.p{
+    color: aliceblue;
+    font-size: smaller;
+    font-weight: 300;
+    font-size: 29px;
+    margin-left: 33%;
+    position: absolute;
+    display: grid;
+    align-items: center;
+    top: 30%;
+    
+}
+.image{
+margin-top: 5%;
+margin-left: 3%;
+}
+
+.timer{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-left: 17%;
+    position: absolute;
+    color: aqua;
+    top: 110%;
+    font-size: 30px;
+
+}
+
+.sub_timer{
+      width: 220px;
+      background: rgba(227, 127, 6, 0.853);
+      backdrop-filter: blur(20px);
+      overflow: hidden;
+      border-radius: 20px;
+
+}
+
+.digit{
+    color: rgb(19, 36, 79);
+    font-weight: lighter;
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(134, 128, 138);
+    padding: 0.4rem;
+}
+
+
+.digit_name{
+    color: rgb(166, 79, 243);
+    background: #1d2323;
+    text-align: center;
+    padding: 0.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+
+
+
